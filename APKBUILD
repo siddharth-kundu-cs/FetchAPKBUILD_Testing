@@ -1,4 +1,4 @@
-# Maintainer: Will Sinatra <wpsinatra@gmail.com>
+# Maintainer: CleanStart <packages-admin@cleanstart.com>
 
 pkgname=prometheus-alertmanager
 pkgver=0.33.0
