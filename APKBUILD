@@ -20,6 +20,11 @@ subpackages="$pkgname-openrc"
 options="!check" # timing-sensitive upstream tests
 
 # secfixes:
+#   0.32.0-r2:
+#     - CVE-2026-39841
+#     - CVE-2026-46798
+#     - CVE-2026-25784
+#     - CVE-2026-29031
 #   0.32.0-r1:
 #     - CVE-2026-39835
 #     - CVE-2026-46598
